@@ -91,13 +91,16 @@
   .main > div {
     width: 90%;
     justify-content: center;
-    margin: 20px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
   }
 
   .step {
     width: 100%;
     margin: 0 auto;
     padding: 10px;
+    justify-content: center;
   }
 
   .step-img1 {
@@ -114,5 +117,4 @@
     width: 100%;
     margin: 0;
   }
-
 }
